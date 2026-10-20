@@ -284,6 +284,15 @@ Potential improvements include:
 **Bharath**  
 Engineering Student, Alliance University
 
-### Project Purpose
+Project Purpose
 
-This project was developed to demonstrate practical Java programming, object-oriented design, collections, input validation, academic calculations, file handling, and automated testing.
+This project was developed as part of the Datheon Java Programming Internship — 2026 Cohort to demonstrate practical Java programming skills and the application of core software development concepts.
+
+The Student Grade Management System showcases object-oriented programming, Java Collections, input validation, exception handling, academic performance calculations, CSV-based file persistence, and automated unit testing using JUnit 5.
+
+The project demonstrates the ability to translate requirements into a functional Java application, organize code into modular classes, validate user input, preserve application data, and verify functionality through automated testing.
+
+Internship Program: Java Programming Internship
+Organization: Datheon
+Cohort: 2026
+Project: Student Grade Management System
